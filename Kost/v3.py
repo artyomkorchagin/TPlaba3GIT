@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 def var3():
-    df = pd.read_csv('temperature_data.csv') # Чтение данных из файла в DataFrame
+    df = pd.read_csv('Kost\\temperature_data.csv') # Чтение данных из файла в DataFrame
 
     print(df[['Max', 'Min', 'Average']]) # Вывод информации о максимальной, минимальной и средней температуре за каждый день
 
