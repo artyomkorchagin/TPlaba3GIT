@@ -2,6 +2,8 @@
 import art.myVariant
 import Ant.vr1
 import Kost.v3
+import Stolyrov.Var_1
+
 print("Выберите ученика:")
 print("1. Корчагин")
 print("2. Антонов")
@@ -16,5 +18,5 @@ match choice:
     case 3:
         Kost.v3.var3()
     case 4:
-        print()
+        Stolyrov.Var_1.var1_1()
 

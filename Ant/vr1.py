@@ -1,7 +1,6 @@
 import csv
 import matplotlib.pyplot as plt
 import datetime
-
 def var1():
     filename = "Ant\data.csv"
     # Считываем данные из файла и сохраняем их в список
