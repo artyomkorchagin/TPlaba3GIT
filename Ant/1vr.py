@@ -2,7 +2,7 @@ import csv
 import matplotlib.pyplot as plt
 import datetime
 
-filename = "C:\Users\Александр\Documents\GitHub\TPlaba3GIT\Ant\data.csv"
+filename = "data.csv"
 
 # Считываем данные из файла и сохраняем их в список
 data = []
