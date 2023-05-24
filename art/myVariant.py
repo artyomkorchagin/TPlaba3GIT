@@ -1,29 +1,22 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+def var2():
+    df = pd.read_excel('art\currency.xlsx') # Получение информации из таблицы эксель
+    print('Полная информация из таблицы')
+    print(df)
 
-# Получение информации из таблицы эксель
-df = pd.read_excel('currency.xlsx')
-print('Полная информация из таблицы')
-print(df)
+    usd = df.loc[:,"USD/RUB"]               # разделение на столбики
+    cny = df.loc[:,"CNY/RUB"]
+    dat = df.loc[:,"Date"]
 
-# разделение на столбики
-usd = df.loc[:,"USD/RUB"]
-cny = df.loc[:,"CNY/RUB"]
-dat = df.loc[:,"Date"]
+    fig1, ax1 = plt.subplots()              # создание двух фигур для графиков курса валют
+    fig2, ax2 = plt.subplots()
 
-# создание двух фигур для графиков курса валют
-fig1, ax1 = plt.subplots()
-fig2, ax2 = plt.subplots()
+    ax1.set_xlabel('Дата')                  # установка названий для Х и Y осей графиков
+    ax1.set_ylabel('Курс USD/RUB')
+    ax2.set_xlabel('Дата')
+    ax2.set_ylabel('Курс CNY/RUB')
 
-# установка названий для Х и Y осей графиков
-ax1.set_xlabel('Дата')
-ax1.set_ylabel('Курс USD/RUB')
-
-ax2.set_xlabel('Дата')
-ax2.set_ylabel('Курс CNY/RUB')
-
-# построение графиков
-ax1.plot(dat, usd)
-ax2.plot(dat, cny)
-
-plt.show()
+    ax1.plot(dat, usd)                      # построение графиков
+    ax2.plot(dat, cny)
+    plt.show()
