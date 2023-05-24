@@ -30,7 +30,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.vr1">
     <configuration name="myVariant" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TPlaba3GIT" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,7 +60,6 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\Артем\PycharmProjects\opengl\venv\Scripts\python.exe" />
-      <option name="SDK_NAME" value="Python 3.11 (opengl)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ant" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
