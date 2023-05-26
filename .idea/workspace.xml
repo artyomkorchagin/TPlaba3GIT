@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="747fd3fb-f9f3-4dda-88cb-32771b1430be" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ant/vr1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ant/vr1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stolyrov/Var_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stolyrov/Var_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_interface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/myVariant.py" beforeDir="false" afterPath="$PROJECT_DIR$/art/myVariant.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,13 +24,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "test__branch"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.main_interface">
     <configuration name="main_interface" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TPlaba3GIT" />
