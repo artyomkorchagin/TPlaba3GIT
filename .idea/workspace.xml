@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="747fd3fb-f9f3-4dda-88cb-32771b1430be" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ant/vr1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ant/vr1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stolyrov/Var_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stolyrov/Var_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_interface.py" afterDir="false" />
-    </list>
+    <list default="true" id="747fd3fb-f9f3-4dda-88cb-32771b1430be" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
